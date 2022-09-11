@@ -9,16 +9,16 @@
         
 ### About me   👨‍💻 
   Seeking knowledge all the time. Tech Enthusiast and a Explorer always inclined towards learning with a positive mindset. 
-   <div align="center">
+   /*<div align="center">
   <img width="300" heigth="200" src="https://i.ibb.co/Jt7gPLv/Ready-Player-Me-Avatar-1.png" />
   <br/> 
-  </div>
+  </div>*/
         
   <div align="center">
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanCampbsi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCampbsi&layout=compact&langs_count=7&theme=merko"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=edersonpaixao21&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edersonpaixao21&layout=compact&langs_count=7&theme=merko"/>
 </a>
 <br/><br/>  
 
