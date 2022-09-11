@@ -8,11 +8,7 @@
 <div style="display: inline_block">
         
 ### About me   👨‍💻 
-  Seeking knowledge all the time. Tech Enthusiast and a Explorer always inclined towards learning with a positive mindset. 
-   /*<div align="center">
-  <img width="300" heigth="200" src="https://i.ibb.co/Jt7gPLv/Ready-Player-Me-Avatar-1.png" />
-  <br/> 
-  </div>*/
+  Seeking knowledge all the time. Tech Enthusiast and a Explorer always inclined towards learning with a positive mindset.   
         
   <div align="center">
   
@@ -23,9 +19,9 @@
 <br/><br/>  
 
 <div>
-       <a href="https://www.linkedin.com/in/juancampos-ferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-       <a href = "mailto:juancampos.bsi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-       <a href = "https://api.whatsapp.com/send?phone=21967713044&text=sua%20mensagem"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+       <a href="https://www.linkedin.com/in/ederson-paix%C3%A3o-a14051242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+       <a href = "mailto:ederson.cpds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+       <a href = "https://api.whatsapp.com/send?phone=21997709904&text=sua%20mensagem"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
        <a href = "https://t.me/juancamposbsi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"  target="_blank"></a>
             
 </div>
