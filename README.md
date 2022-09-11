@@ -7,8 +7,8 @@
 
 <div style="display: inline_block">
         
-### About me   👨‍💻 
-  Seeking knowledge all the time. Tech Enthusiast and a Explorer always inclined towards learning with a positive mindset.   
+### About me   👨‍💻   
+Technology enthusiast, I have experience as a designer and currently I'm focused on web systems development.   
         
   <div align="center">
   
